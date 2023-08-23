@@ -26,6 +26,6 @@ npm install</code><p>
 5. Run this command to initialize the database by creating the necessary schemas and seeding the database using the logic we added to the customSeed.ts file:<p>
 <code>npm run db:init</code><p>
 6. To start server:<p>
-<code>npm start</code><p>
+<code>npm run start</code><p>
 
 Then access the server at localhost:3000/graphql and start querying for your Pokemon :)
