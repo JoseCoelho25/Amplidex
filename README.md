@@ -15,7 +15,7 @@ Amplidex is a powerful web scraping tool designed to retrieve data about Pokémo
 
 ## Installation and Setup<p>
 1. Clone the Repository: Begin by cloning the Amplidex repository to your local machine:<p>
-<code>git clone https://github.com/josecoelho25/amplidex.git</code><p>
+<code>git clone https://github.com/JoseCoelho25/Amplidex.git</code><p>
 2. Install Dependencies: Navigate to the project directory and install the required dependencies using npm or yarn:<p>
 <code>cd amplidex
 npm install</code><p>
